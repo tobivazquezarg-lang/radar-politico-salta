@@ -1,0 +1,15 @@
+[
+  {
+    "id": "presupuesto-2027",
+    "name": "Presupuesto 2027",
+    "scope": "provincial",
+    "keywords": ["presupuesto 2027", "presupuesto provincial"]
+  },
+  {
+    "id": "ejemplo-tema",
+    "name": "NOMBRE DEL TEMA",
+    "role": "Reemplazá este registro por cada tema que quieras seguir",
+    "scope": "provincial",
+    "keywords": ["frase o palabra clave 1", "frase o palabra clave 2"]
+  }
+]

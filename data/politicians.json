@@ -1,0 +1,1064 @@
+[
+  {
+    "id": "gustavo-saenz",
+    "name": "Gustavo Sáenz",
+    "role": "Gobernador de Salta",
+    "chamber": "Ejecutivo",
+    "aliases": [
+      "Gustavo Sáenz",
+      "Sáenz"
+    ]
+  },
+  {
+    "id": "sen-luis-altamirano",
+    "name": "Luis Arnaldo Altamirano",
+    "role": "Senador provincial",
+    "chamber": "Senado",
+    "department": "Santa Victoria",
+    "source_url": "https://senadosalta.gob.ar/wp-content/uploads/2026/08/12.-DIARIO-SESION-21-DE-MAYO-2026.pdf",
+    "aliases": [
+      "Luis Altamirano",
+      "Luis Arnaldo Altamirano"
+    ]
+  },
+  {
+    "id": "sen-manrique-burgos",
+    "name": "Manrique Iván Burgos",
+    "role": "Senador provincial",
+    "chamber": "Senado",
+    "department": "Cachi",
+    "source_url": "https://senadosalta.gob.ar/wp-content/uploads/2026/08/12.-DIARIO-SESION-21-DE-MAYO-2026.pdf",
+    "aliases": [
+      "Manrique Burgos",
+      "Manrique Iván Burgos"
+    ]
+  },
+  {
+    "id": "sen-gonzalo-caro-davalos",
+    "name": "Gonzalo Caro Dávalos",
+    "role": "Senador provincial",
+    "chamber": "Senado",
+    "department": "Cerrillos",
+    "source_url": "https://senadosalta.gob.ar/wp-content/uploads/2026/05/3.-DIARIO-SESION-5-DE-MARZO-2026.pdf",
+    "aliases": [
+      "Gonzalo Caro Dávalos",
+      "Caro Dávalos"
+    ]
+  },
+  {
+    "id": "sen-diego-cari",
+    "name": "Diego Evaristo Cari",
+    "role": "Senador provincial",
+    "chamber": "Senado",
+    "department": "Guachipas",
+    "source_url": "https://senadosalta.gob.ar/wp-content/uploads/2026/08/12.-DIARIO-SESION-21-DE-MAYO-2026.pdf",
+    "aliases": [
+      "Diego Cari",
+      "Diego Evaristo Cari"
+    ]
+  },
+  {
+    "id": "sen-roque-cornejo-avellaneda",
+    "name": "Roque Ramón Cornejo Avellaneda",
+    "role": "Senador provincial",
+    "chamber": "Senado",
+    "department": "Capital",
+    "source_url": "https://senadosalta.gob.ar/wp-content/uploads/2026/08/12.-DIARIO-SESION-21-DE-MAYO-2026.pdf",
+    "aliases": [
+      "Cornejo Avellaneda",
+      "Roque Cornejo Avellaneda"
+    ]
+  },
+  {
+    "id": "sen-enrique-cornejo-saravia",
+    "name": "Enrique Antonio Cornejo Saravia",
+    "role": "Senador provincial",
+    "chamber": "Senado",
+    "department": "General Güemes",
+    "source_url": "https://senadosalta.gob.ar/wp-content/uploads/2026/08/12.-DIARIO-SESION-21-DE-MAYO-2026.pdf",
+    "aliases": [
+      "Enrique Cornejo Saravia",
+      "Cornejo Saravia"
+    ]
+  },
+  {
+    "id": "sen-walter-cruz",
+    "name": "Walter Hernán Cruz",
+    "role": "Senador provincial",
+    "chamber": "Senado",
+    "department": "Iruya",
+    "source_url": "https://senadosalta.gob.ar/wp-content/uploads/2026/08/12.-DIARIO-SESION-21-DE-MAYO-2026.pdf",
+    "aliases": [
+      "Walter Cruz",
+      "Walter Hernán Cruz"
+    ]
+  },
+  {
+    "id": "sen-esteban-dandrea-cornejo",
+    "name": "Esteban D'Andrea Cornejo",
+    "role": "Presidente del Senado de Salta",
+    "chamber": "Senado",
+    "source_url": "https://senadosalta.gob.ar/wp-content/uploads/2026/08/12.-DIARIO-SESION-21-DE-MAYO-2026.pdf",
+    "aliases": [
+      "Esteban D'Andrea Cornejo",
+      "D'Andrea Cornejo"
+    ]
+  },
+  {
+    "id": "sen-mashur-lapad",
+    "name": "Mashur Lapad",
+    "role": "Senador provincial",
+    "chamber": "Senado",
+    "department": "Rivadavia",
+    "source_url": "https://senadosalta.gob.ar/wp-content/uploads/2026/08/12.-DIARIO-SESION-21-DE-MAYO-2026.pdf",
+    "aliases": [
+      "Mashur Lapad"
+    ]
+  },
+  {
+    "id": "sen-leonor-minetti",
+    "name": "Leonor Nieves Minetti",
+    "role": "Senadora provincial",
+    "chamber": "Senado",
+    "department": "Rosario de Lerma",
+    "source_url": "https://senadosalta.gob.ar/wp-content/uploads/2026/08/12.-DIARIO-SESION-21-DE-MAYO-2026.pdf",
+    "aliases": [
+      "Leonor Minetti",
+      "Leonor Nieves Minetti"
+    ]
+  },
+  {
+    "id": "sen-alejandra-navarro",
+    "name": "Alejandra Beatriz Navarro",
+    "role": "Senadora provincial",
+    "chamber": "Senado",
+    "source_url": "https://senadosalta.gob.ar/wp-content/uploads/2026/08/12.-DIARIO-SESION-21-DE-MAYO-2026.pdf",
+    "aliases": [
+      "Alejandra Navarro",
+      "Alejandra Beatriz Navarro"
+    ]
+  },
+  {
+    "id": "sen-dani-nolasco",
+    "name": "Dani Raúl Nolasco",
+    "role": "Senador provincial",
+    "chamber": "Senado",
+    "department": "La Poma",
+    "source_url": "https://senadosalta.gob.ar/wp-content/uploads/2026/08/12.-DIARIO-SESION-21-DE-MAYO-2026.pdf",
+    "aliases": [
+      "Dani Nolasco",
+      "Dani Raúl Nolasco"
+    ]
+  },
+  {
+    "id": "sen-manuel-pailler",
+    "name": "Manuel Oscar Pailler",
+    "role": "Senador provincial",
+    "chamber": "Senado",
+    "department": "General San Martín",
+    "source_url": "https://senadosalta.gob.ar/wp-content/uploads/2026/08/12.-DIARIO-SESION-21-DE-MAYO-2026.pdf",
+    "aliases": [
+      "Manuel Pailler",
+      "Manuel Oscar Pailler"
+    ]
+  },
+  {
+    "id": "sen-sergio-saldano",
+    "name": "Sergio Rodrigo Saldaño",
+    "role": "Senador provincial",
+    "chamber": "Senado",
+    "department": "Cafayate",
+    "source_url": "https://senadosalta.gob.ar/wp-content/uploads/2026/08/12.-DIARIO-SESION-21-DE-MAYO-2026.pdf",
+    "aliases": [
+      "Sergio Saldaño",
+      "Sergio Rodrigo Saldaño"
+    ]
+  },
+  {
+    "id": "sen-carlos-lopez",
+    "name": "Carlos Fabián López",
+    "role": "Senador provincial",
+    "chamber": "Senado",
+    "department": "La Candelaria",
+    "source_url": "https://senadosalta.gob.ar/wp-content/uploads/2026/08/12.-DIARIO-SESION-21-DE-MAYO-2026.pdf",
+    "aliases": [
+      "Carlos López",
+      "Carlos Fabián López"
+    ]
+  },
+  {
+    "id": "sen-jose-guaimas",
+    "name": "José Rolando Guaimás",
+    "role": "Senador provincial",
+    "chamber": "Senado",
+    "source_url": "https://senadosalta.gob.ar/wp-content/uploads/2026/08/12.-DIARIO-SESION-21-DE-MAYO-2026.pdf",
+    "aliases": [
+      "José Guaimás",
+      "José Rolando Guaimás"
+    ]
+  },
+  {
+    "id": "sen-juan-cruz-cura",
+    "name": "Juan Cruz Curá",
+    "role": "Senador provincial",
+    "chamber": "Senado",
+    "source_url": "https://senadosalta.gob.ar/wp-content/uploads/2026/08/12.-DIARIO-SESION-21-DE-MAYO-2026.pdf",
+    "aliases": [
+      "Juan Cruz Curá"
+    ]
+  },
+  {
+    "id": "sen-jorge-soto",
+    "name": "Jorge Pablo Soto",
+    "role": "Senador provincial",
+    "chamber": "Senado",
+    "source_url": "https://senadosalta.gob.ar/wp-content/uploads/2026/08/12.-DIARIO-SESION-21-DE-MAYO-2026.pdf",
+    "aliases": [
+      "Jorge Soto",
+      "Jorge Pablo Soto"
+    ]
+  },
+  {
+    "id": "sen-carlos-guitian",
+    "name": "Carlos Nicolás Guitián",
+    "role": "Senador provincial",
+    "chamber": "Senado",
+    "source_url": "https://senadosalta.gob.ar/wp-content/uploads/2026/08/12.-DIARIO-SESION-21-DE-MAYO-2026.pdf",
+    "aliases": [
+      "Carlos Guitián",
+      "Carlos Nicolás Guitián"
+    ]
+  },
+  {
+    "id": "sen-edgardo-guaymas",
+    "name": "Edgardo Gonzalo Federico Guaymás",
+    "role": "Senador provincial",
+    "chamber": "Senado",
+    "source_url": "https://senadosalta.gob.ar/wp-content/uploads/2026/08/12.-DIARIO-SESION-21-DE-MAYO-2026.pdf",
+    "aliases": [
+      "Edgardo Guaymás"
+    ]
+  },
+  {
+    "id": "sen-hector-dauria",
+    "name": "Héctor Daniel D'Auria",
+    "role": "Senador provincial",
+    "chamber": "Senado",
+    "source_url": "https://senadosalta.gob.ar/wp-content/uploads/2026/08/12.-DIARIO-SESION-21-DE-MAYO-2026.pdf",
+    "aliases": [
+      "Héctor D'Auria",
+      "Héctor Daniel D'Auria"
+    ]
+  },
+  {
+    "id": "sen-luciano-elvira",
+    "name": "Luciano José Elvira",
+    "role": "Senador provincial",
+    "chamber": "Senado",
+    "source_url": "https://senadosalta.gob.ar/wp-content/uploads/2026/08/12.-DIARIO-SESION-21-DE-MAYO-2026.pdf",
+    "aliases": [
+      "Luciano Elvira",
+      "Luciano José Elvira"
+    ]
+  },
+  {
+    "id": "sen-daniel-moreno-ovalle",
+    "name": "Daniel Roberto Moreno Ovalle",
+    "role": "Senador provincial",
+    "chamber": "Senado",
+    "source_url": "https://senadosalta.gob.ar/wp-content/uploads/2026/08/12.-DIARIO-SESION-21-DE-MAYO-2026.pdf",
+    "aliases": [
+      "Daniel Moreno Ovalle",
+      "Moreno Ovalle"
+    ]
+  },
+  {
+    "id": "concejal-pendiente",
+    "name": "AGREGÁ ACÁ CADA CONCEJAL",
+    "role": "Ver nota en README sobre nómina del Concejo Deliberante",
+    "chamber": "Concejo Deliberante",
+    "aliases": [
+      "Nombre y apellido real"
+    ]
+  },
+  {
+    "id": "dip-marcela-del-valle-leguina",
+    "name": "Marcela del Valle Leguina",
+    "role": "Diputado/a provincial por Anta (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Anta",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Marcela del Valle Leguina"
+    ]
+  },
+  {
+    "id": "dip-alejandra-beatriz-navarro",
+    "name": "Alejandra Beatriz Navarro",
+    "role": "Diputado/a provincial por Anta (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Anta",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Alejandra Beatriz Navarro"
+    ]
+  },
+  {
+    "id": "dip-hector-orlando-escobar",
+    "name": "Héctor Orlando Escobar",
+    "role": "Diputado/a provincial por Anta (mandato Wikipedia 2022-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Anta",
+    "term_start": "2022",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Héctor Orlando Escobar"
+    ]
+  },
+  {
+    "id": "dip-federico-miguel-canizares",
+    "name": "Federico Miguel Cañizares",
+    "role": "Diputado/a provincial por Cachi (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Cachi",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Federico Miguel Cañizares"
+    ]
+  },
+  {
+    "id": "dip-patricio-penalba-arias",
+    "name": "Patricio Peñalba Arias",
+    "role": "Diputado/a provincial por Cafayate (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Cafayate",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Patricio Peñalba Arias"
+    ]
+  },
+  {
+    "id": "dip-bernardo-jose-biella-calvet",
+    "name": "Bernardo José Biella Calvet",
+    "role": "Diputado/a provincial por Capital (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Capital",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Bernardo José Biella Calvet"
+    ]
+  },
+  {
+    "id": "dip-laura-deolinda-cartuccia",
+    "name": "Laura Deolinda Cartuccia",
+    "role": "Diputado/a provincial por Capital (mandato Wikipedia 2019-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Capital",
+    "term_start": "2019",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Laura Deolinda Cartuccia"
+    ]
+  },
+  {
+    "id": "dip-roque-ramon-cornejo-avellaneda",
+    "name": "Roque Ramón Cornejo Avellaneda",
+    "role": "Diputado/a provincial por Capital (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Capital",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Roque Ramón Cornejo Avellaneda"
+    ]
+  },
+  {
+    "id": "dip-isabel-marcelina-de-vita",
+    "name": "Isabel Marcelina de Vita",
+    "role": "Diputado/a provincial por Capital (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Capital",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Isabel Marcelina de Vita"
+    ]
+  },
+  {
+    "id": "dip-omar-exeni-arminana",
+    "name": "Omar Exeni Armiñana",
+    "role": "Diputado/a provincial por Capital (mandato Wikipedia 2019-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Capital",
+    "term_start": "2019",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Omar Exeni Armiñana"
+    ]
+  },
+  {
+    "id": "dip-maria-cristina-fiore-vinuales",
+    "name": "María Cristina Fiore Viñuales",
+    "role": "Diputado/a provincial por Capital (mandato Wikipedia 2019-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Capital",
+    "term_start": "2019",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "María Cristina Fiore Viñuales"
+    ]
+  },
+  {
+    "id": "dip-maria-cristina-frisoli",
+    "name": "María Cristina Frísoli",
+    "role": "Diputado/a provincial por Capital (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Capital",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "María Cristina Frísoli"
+    ]
+  },
+  {
+    "id": "dip-monica-gabriela-juarez",
+    "name": "Mónica Gabriela Juárez",
+    "role": "Diputado/a provincial por Capital (mandato Wikipedia 2019-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Capital",
+    "term_start": "2019",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Mónica Gabriela Juárez"
+    ]
+  },
+  {
+    "id": "dip-victor-manuel-vitin-lamberto",
+    "name": "Víctor Manuel \"Vitín\" Lamberto",
+    "role": "Diputado/a provincial por Capital (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Capital",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Víctor Manuel \"Vitín\" Lamberto"
+    ]
+  },
+  {
+    "id": "dip-david-jesus-leiva",
+    "name": "David Jesús Leiva",
+    "role": "Diputado/a provincial por Capital (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Capital",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "David Jesús Leiva"
+    ]
+  },
+  {
+    "id": "dip-julieta-estefania-perdigon-weber",
+    "name": "Julieta Estefanía Perdigón Weber",
+    "role": "Diputado/a provincial por Capital (mandato Wikipedia 2021-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Capital",
+    "term_start": "2021",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Julieta Estefanía Perdigón Weber"
+    ]
+  },
+  {
+    "id": "dip-noelia-cecilia-rigo-barea",
+    "name": "Noelia Cecilia Rigó Barea",
+    "role": "Diputado/a provincial por Capital (mandato Wikipedia 2019-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Capital",
+    "term_start": "2019",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Noelia Cecilia Rigó Barea"
+    ]
+  },
+  {
+    "id": "dip-juan-esteban-romero",
+    "name": "Juan Esteban Romero",
+    "role": "Diputado/a provincial por Capital (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Capital",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Juan Esteban Romero"
+    ]
+  },
+  {
+    "id": "dip-juan-carlos-francisco-roque-posse",
+    "name": "Juan Carlos Francisco Roque Posse",
+    "role": "Diputado/a provincial por Capital (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Capital",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Juan Carlos Francisco Roque Posse"
+    ]
+  },
+  {
+    "id": "dip-maria-victoria-saicha-ibanez",
+    "name": "María Victoria Saicha Ibáñez",
+    "role": "Diputado/a provincial por Capital (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Capital",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "María Victoria Saicha Ibáñez"
+    ]
+  },
+  {
+    "id": "dip-enrique-daniel-sansone",
+    "name": "Enrique Daniel Sansone",
+    "role": "Diputado/a provincial por Capital (mandato Wikipedia 2019-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Capital",
+    "term_start": "2019",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Enrique Daniel Sansone"
+    ]
+  },
+  {
+    "id": "dip-sofia-sierra",
+    "name": "Sofía Sierra",
+    "role": "Diputado/a provincial por Capital (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Capital",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Sofía Sierra"
+    ]
+  },
+  {
+    "id": "dip-adrian-alfredo-valenzuela-giantomasi",
+    "name": "Adrián Alfredo Valenzuela Giantomasi",
+    "role": "Diputado/a provincial por Capital (mandato Wikipedia 2019-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Capital",
+    "term_start": "2019",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Adrián Alfredo Valenzuela Giantomasi"
+    ]
+  },
+  {
+    "id": "dip-maria-del-socorro-villamayor",
+    "name": "María del Socorro Villamayor",
+    "role": "Diputado/a provincial por Capital (mandato Wikipedia 2019-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Capital",
+    "term_start": "2019",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "María del Socorro Villamayor"
+    ]
+  },
+  {
+    "id": "dip-luis-fernando-albeza",
+    "name": "Luis Fernando Albeza",
+    "role": "Diputado/a provincial por Cerrillos (mandato Wikipedia 2019-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Cerrillos",
+    "term_start": "2019",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Luis Fernando Albeza"
+    ]
+  },
+  {
+    "id": "dip-gonzalo-caro-davalos",
+    "name": "Gonzalo Caro Dávalos",
+    "role": "Diputado/a provincial por Cerrillos (mandato Wikipedia 2019-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Cerrillos",
+    "term_start": "2019",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Gonzalo Caro Dávalos"
+    ]
+  },
+  {
+    "id": "dip-maria-del-socorro-lopez",
+    "name": "María Del Socorro López",
+    "role": "Diputado/a provincial por Chicoana (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Chicoana",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "María Del Socorro López"
+    ]
+  },
+  {
+    "id": "dip-german-dario-ralle",
+    "name": "Germán Darío Rallé",
+    "role": "Diputado/a provincial por General Güemes (mandato Wikipedia 2019-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "General Güemes",
+    "term_start": "2019",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Germán Darío Rallé"
+    ]
+  },
+  {
+    "id": "dip-daniel-alejandro-segura-gimenez",
+    "name": "Daniel Alejandro Segura Giménez",
+    "role": "Diputado/a provincial por General Güemes (mandato Wikipedia 2019-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "General Güemes",
+    "term_start": "2019",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Daniel Alejandro Segura Giménez"
+    ]
+  },
+  {
+    "id": "dip-ana-laura-cordoba",
+    "name": "Ana Laura Córdoba",
+    "role": "Diputado/a provincial por General San Martín (mandato Wikipedia 2019-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "General San Martín",
+    "term_start": "2019",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Ana Laura Córdoba"
+    ]
+  },
+  {
+    "id": "dip-franco-esteban-francisco-hernandez-berni",
+    "name": "Franco Estéban Francisco Hernández Berni",
+    "role": "Diputado/a provincial por General San Martín (mandato Wikipedia 2019-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "General San Martín",
+    "term_start": "2019",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Franco Estéban Francisco Hernández Berni"
+    ]
+  },
+  {
+    "id": "dip-matias-monteagudo",
+    "name": "Matías Monteagudo",
+    "role": "Diputado/a provincial por General San Martín (mandato Wikipedia 2019-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "General San Martín",
+    "term_start": "2019",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Matías Monteagudo"
+    ]
+  },
+  {
+    "id": "dip-gladys-lidia-paredes",
+    "name": "Gladys Lidia Paredes",
+    "role": "Diputado/a provincial por General San Martín (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "General San Martín",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Gladys Lidia Paredes"
+    ]
+  },
+  {
+    "id": "dip-jorge-miguel-restom",
+    "name": "Jorge Miguel Restom",
+    "role": "Diputado/a provincial por General San Martín (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "General San Martín",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Jorge Miguel Restom"
+    ]
+  },
+  {
+    "id": "dip-santiago-raul-vargas",
+    "name": "Santiago Raúl Vargas",
+    "role": "Diputado/a provincial por General San Martín (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "General San Martín",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Santiago Raúl Vargas"
+    ]
+  },
+  {
+    "id": "dip-ernesto-gerardo-guanca",
+    "name": "Ernesto Gerardo Guanca",
+    "role": "Diputado/a provincial por Guachipas (mandato Wikipedia 2019-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Guachipas",
+    "term_start": "2019",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Ernesto Gerardo Guanca"
+    ]
+  },
+  {
+    "id": "dip-ricardo-german-vargas",
+    "name": "Ricardo Germán Vargas",
+    "role": "Diputado/a provincial por Iruya (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Iruya",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Ricardo Germán Vargas"
+    ]
+  },
+  {
+    "id": "dip-gustavo-javier-pantaleon",
+    "name": "Gustavo Javier Pantaleón",
+    "role": "Diputado/a provincial por La Caldera (mandato Wikipedia 2019-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "La Caldera",
+    "term_start": "2019",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Gustavo Javier Pantaleón"
+    ]
+  },
+  {
+    "id": "dip-francisco-fabio-rodriguez",
+    "name": "Francisco Fabio Rodríguez",
+    "role": "Diputado/a provincial por La Candelaria (mandato Wikipedia 2019-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "La Candelaria",
+    "term_start": "2019",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Francisco Fabio Rodríguez"
+    ]
+  },
+  {
+    "id": "dip-roberto-angel-bonifacio",
+    "name": "Roberto Ángel Bonifacio",
+    "role": "Diputado/a provincial por La Poma (mandato Wikipedia 2019-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "La Poma",
+    "term_start": "2019",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Roberto Ángel Bonifacio"
+    ]
+  },
+  {
+    "id": "dip-esteban-amat-lacroix",
+    "name": "Esteban Amat Lacroix",
+    "role": "Diputado/a provincial por La Viña (mandato Wikipedia 2019-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "La Viña",
+    "term_start": "2019",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Esteban Amat Lacroix"
+    ]
+  },
+  {
+    "id": "dip-azucena-atanasia-salva",
+    "name": "Azucena Atanasia Salva",
+    "role": "Diputado/a provincial por Los Andes (mandato Wikipedia 2019-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Los Andes",
+    "term_start": "2019",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Azucena Atanasia Salva"
+    ]
+  },
+  {
+    "id": "dip-gustavo-bernardo-dantur",
+    "name": "Gustavo Bernardo Dantur",
+    "role": "Diputado/a provincial por Metán (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Metán",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Gustavo Bernardo Dantur"
+    ]
+  },
+  {
+    "id": "dip-nancy-liliana-jaime",
+    "name": "Nancy Liliana Jaime",
+    "role": "Diputado/a provincial por Metán (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Metán",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Nancy Liliana Jaime"
+    ]
+  },
+  {
+    "id": "dip-antonio-sebastian-otero",
+    "name": "Antonio Sebastián Otero",
+    "role": "Diputado/a provincial por Metán (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Metán",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Antonio Sebastián Otero"
+    ]
+  },
+  {
+    "id": "dip-fabio-enrique-lopez",
+    "name": "Fabio Enrique López",
+    "role": "Diputado/a provincial por Molinos (mandato Wikipedia 2019-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Molinos",
+    "term_start": "2019",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Fabio Enrique López"
+    ]
+  },
+  {
+    "id": "dip-carolina-rosana-ceaglio",
+    "name": "Carolina Rosana Ceaglio",
+    "role": "Diputado/a provincial por Orán (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Orán",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Carolina Rosana Ceaglio"
+    ]
+  },
+  {
+    "id": "dip-patricia-del-carmen-hucena",
+    "name": "Patricia del Carmen Hucena",
+    "role": "Diputado/a provincial por Orán (mandato Wikipedia 2019-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Orán",
+    "term_start": "2019",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Patricia del Carmen Hucena"
+    ]
+  },
+  {
+    "id": "dip-jorgelina-silvana-juarez",
+    "name": "Jorgelina Silvana Juárez",
+    "role": "Diputado/a provincial por Orán (mandato Wikipedia 2019-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Orán",
+    "term_start": "2019",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Jorgelina Silvana Juárez"
+    ]
+  },
+  {
+    "id": "dip-martin-miguel-perez",
+    "name": "Martín Miguel Pérez",
+    "role": "Diputado/a provincial por Orán (mandato Wikipedia 2019-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Orán",
+    "term_start": "2019",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Martín Miguel Pérez"
+    ]
+  },
+  {
+    "id": "dip-teodora-ramona-riquelme",
+    "name": "Teodora Ramona Riquelme",
+    "role": "Diputado/a provincial por Orán (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Orán",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Teodora Ramona Riquelme"
+    ]
+  },
+  {
+    "id": "dip-claudia-gloria-seco",
+    "name": "Claudia Gloria Seco",
+    "role": "Diputado/a provincial por Orán (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Orán",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Claudia Gloria Seco"
+    ]
+  },
+  {
+    "id": "dip-moises-justiniano-balderrama",
+    "name": "Moisés Justiniano Balderrama",
+    "role": "Diputado/a provincial por Rivadavia (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Rivadavia",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Moisés Justiniano Balderrama"
+    ]
+  },
+  {
+    "id": "dip-rogelio-guaipo-segundo",
+    "name": "Rogelio Guaipo Segundo",
+    "role": "Diputado/a provincial por Rivadavia (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Rivadavia",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Rogelio Guaipo Segundo"
+    ]
+  },
+  {
+    "id": "dip-pablo-raul-alejandro-gomez",
+    "name": "Pablo Raúl Alejandro Gómez",
+    "role": "Diputado/a provincial por Rosario de la Frontera (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Rosario de la Frontera",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Pablo Raúl Alejandro Gómez"
+    ]
+  },
+  {
+    "id": "dip-gustavo-orlando-orozco",
+    "name": "Gustavo Orlando Orozco",
+    "role": "Diputado/a provincial por Rosario de la Frontera (mandato Wikipedia 2021-2025 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Rosario de la Frontera",
+    "term_start": "2021",
+    "term_end": "2025",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Gustavo Orlando Orozco"
+    ]
+  },
+  {
+    "id": "dip-lino-fernando-yonar",
+    "name": "Lino Fernando Yonar",
+    "role": "Diputado/a provincial por Rosario de Lerma (mandato Wikipedia 2019-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Rosario de Lerma",
+    "term_start": "2019",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Lino Fernando Yonar"
+    ]
+  },
+  {
+    "id": "dip-mabel-veronica-janeth-barboza",
+    "name": "Mabel Verónica Janeth Barboza",
+    "role": "Diputado/a provincial por Rosario de Lerma (mandato Wikipedia 2023-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Rosario de Lerma",
+    "term_start": "2023",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Mabel Verónica Janeth Barboza"
+    ]
+  },
+  {
+    "id": "dip-elena-nahir-diaz",
+    "name": "Elena Nahir Díaz",
+    "role": "Diputado/a provincial por San Carlos (mandato Wikipedia 2021-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "San Carlos",
+    "term_start": "2021",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Elena Nahir Díaz"
+    ]
+  },
+  {
+    "id": "dip-osvaldo-francisco-acosta",
+    "name": "Osvaldo Francisco Acosta",
+    "role": "Diputado/a provincial por Santa Victoria (mandato Wikipedia 2019-2023 — VERIFICAR vigencia actual, ver README)",
+    "chamber": "Diputados",
+    "department": "Santa Victoria",
+    "term_start": "2019",
+    "term_end": "2023",
+    "source_url": "https://en.wikipedia.org/wiki/Chamber_of_Deputies_of_Salta",
+    "aliases": [
+      "Osvaldo Francisco Acosta"
+    ]
+  }
+]
